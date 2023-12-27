@@ -1,9 +1,10 @@
-C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\HighlightAimPie\1.4\Assemblies\CorpsesDeteriorateFaster.dll
-C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\HighlightAimPie\1.4\Assemblies\CorpsesDeteriorateFaster.pdb
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\HighlightAimPie\Source\obj\Debug\HighlightAimPie.csproj.AssemblyReference.cache
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\HighlightAimPie\Source\obj\Debug\HighlightAimPie.GeneratedMSBuildEditorConfig.editorconfig
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\HighlightAimPie\Source\obj\Debug\HighlightAimPie.AssemblyInfoInputs.cache
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\HighlightAimPie\Source\obj\Debug\HighlightAimPie.AssemblyInfo.cs
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\HighlightAimPie\Source\obj\Debug\HighlightAimPie.csproj.CoreCompileInputs.cache
-C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\HighlightAimPie\Source\obj\Debug\CorpsesDeteriorateFaster.dll
-C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\HighlightAimPie\Source\obj\Debug\CorpsesDeteriorateFaster.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\HighlightAimPie\Source\obj\Debug\HighlightAimPie.sourcelink.json
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\HighlightAimPie\1.4\Assemblies\HighlightAimPie.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\HighlightAimPie\1.4\Assemblies\HighlightAimPie.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\HighlightAimPie\Source\obj\Debug\HighlightAimPie.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\HighlightAimPie\Source\obj\Debug\HighlightAimPie.pdb
